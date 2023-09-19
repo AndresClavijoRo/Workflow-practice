@@ -1,7 +1,7 @@
 import unittest
 import datetime
+import numpy
 from Comunidad.persona import Persona
-
 
 class PersonaTestCase(unittest.TestCase):
 

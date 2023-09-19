@@ -18,3 +18,5 @@
 SQLAlchemy
 faker
 coverage
+numpy
+numpydoc
